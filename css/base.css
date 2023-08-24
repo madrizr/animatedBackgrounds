@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	margin: 0;
+}
+
+/* Fade effect */
+
+body{
+	width: 100vw;
+	height: 100vh;
+}
+
+.content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	min-height: 100%;
+}
+
+.scene--full {
+	width: 100%;
+	height: 100vh;
+}
